@@ -21,15 +21,17 @@ Beside's programming, I enjoy eating food and traveling. I like to explore 🏔�
 </a>
 
 <br />
+<br />
+<br />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Nusantech](https://github.com/Nusantech);
-- 🌱 I’m currently learning ReactJs, TypeScript, Lumen, and Docker;
-- 👯 I’m looking to collaborate on [Nusantech](https://github.com/Nusantech) 🤝;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: n.fajri@outlook.com;
+- 👨🏽‍💻 I’m currently working on [Nusantech](https://github.com/Nusantech)
+- 🌱 I’m currently learning ReactJs, TypeScript, Lumen, and Docker
+- 👯 I’m looking to collaborate on [Nusantech](https://github.com/Nusantech) 🤝
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: n.fajri@outlook.com
 - 📝 [Resume](https://resume.masb0ymas.now.sh)
 
 **Languages and Tools:**
@@ -49,7 +51,7 @@ Beside's programming, I enjoy eating food and traveling. I like to explore 🏔�
 
 ![My Github Stat](https://github-readme-stats.vercel.app/api?username=masb0ymas&show_icons=true&hide_border=true)
 
-⭐️ From [abhisheknaiidu](https://github.com/abhisheknaiidu)
+⭐️ From [masb0ymas](https://github.com/masb0ymas)
 
 <a href="https://github.com/masb0ymas/boilerplate-express-with-sequelize">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=masb0ymas&repo=boilerplate-express-with-sequelize" />
