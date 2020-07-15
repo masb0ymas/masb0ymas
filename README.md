@@ -51,7 +51,6 @@ Beside's programming, I enjoy eating food and traveling. I like to explore 🏔�
 
 ![My Github Stat](https://github-readme-stats.vercel.app/api?username=masb0ymas&show_icons=true&hide_border=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=masb0ymas.masb0ymas)
 
 ⭐️ From [masb0ymas](https://github.com/masb0ymas)
 
