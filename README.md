@@ -1,7 +1,7 @@
 ### Hey 👋🏽, I'm [Nurul Fajri](https://resume.masb0ymas.now.sh)
 people call me `Fajri` 
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img width="100%" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 <br />
 
