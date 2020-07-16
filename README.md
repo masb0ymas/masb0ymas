@@ -6,7 +6,9 @@ people call me `Fajri`
 <br />
 
 Hi, I'm Nurul Fajri, a Full Stack Developer 🚀 from Indonesia, currently, I'm a working on [Nusantech](https://github.com/Nusantech).
-Beside's programming, I enjoy eating food and traveling. I like to explore 🏔️ new things related to technology.
+Beside's programming, I enjoy eating food and traveling. I am still learning to get the best experience. I like to explore 🏔️ new things related to technology.
+
+I love playing with 🐧 penguins and eating apples 🍏
 
 **Follow Me:**
 
