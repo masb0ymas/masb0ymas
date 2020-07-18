@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Nurul Fajri](https://resume.masb0ymas.now.sh)
+### Hey 👋🏽, I'm [Nurul Fajri](https://resume.masb0ymas.vercel.app/)
 people call me `Fajri` 
 
 <img width="100%" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
@@ -29,12 +29,12 @@ I love playing with 🐧 penguins and eating apples 🍏
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [Nusantech](https://github.com/Nusantech)
-- 🌱 I’m currently learning ReactJs, TypeScript, Lumen, and Docker
+- 🌱 I’m currently learning [NextJs](https://github.com/vercel/next.js), [TypeScript](https://github.com/microsoft/TypeScript), [Lumen](https://github.com/laravel/lumen), and Docker
 - 👯 I’m looking to collaborate on [Nusantech](https://github.com/Nusantech) 🤝
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: n.fajri@outlook.com
-- 📝 [Resume](https://resume.masb0ymas.now.sh)
+- 📝 [Resume](https://resume.masb0ymas.vercel.app/)
 
 **Languages and Tools:**
 
