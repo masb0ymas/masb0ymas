@@ -61,6 +61,6 @@ I love playing with 🐧 penguins and eating apples 🍏
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=masb0ymas&repo=boilerplate-express-with-sequelize" />
 </a>
 
-<a href="https://github.com/masb0ymas/boilerplate-core-ui-with-redux">
+<a href="https://github.com/masb0ymas/boilerplate-express-typescript-sequelize">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=masb0ymas&repo=boilerplate-core-ui-with-redux" />
 </a>
