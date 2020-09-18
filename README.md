@@ -12,13 +12,13 @@ I love playing with 🐧 penguins and eating apples 🍏
 
 **Follow Me:**
 
-<a href="https://www.linkedin.com/in/aji-ajjha-58a248b7/">
+<a href="https://linkedin.com/in/nurul-fajri-58a248b7">
   <img align="left" alt="Nurul Fajri | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
 <a href="https://twitter.com/fajriajjha1">
   <img align="left" alt="Aji Ajjha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 </a>
-<a href="https://www.instagram.com/aji_ajjha/">
+<a href="https://www.instagram.com/aji_ajjha">
   <img align="left" alt="Aji Ajjha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
 </a>
 
