@@ -56,15 +56,15 @@ I love playing with 🐧 penguins and eating apples 🍏
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-![My Github Stat](https://github-readme-stats.vercel.app/api?username=masb0ymas&show_icons=true&hide_border=true)
+![My Github Stat](https://github-readme-stats.vercel.app/api?username=masb0ymas&show_icons=true&hide_border=true&theme=vue-dark)
 
 
 ⭐️ From [masb0ymas](https://github.com/masb0ymas)
 
 <a href="https://github.com/masb0ymas/koala-sequelize-typescript">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=masb0ymas&repo=koala-sequelize-typescript" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=masb0ymas&repo=koala-sequelize-typescript&theme=vue-dark" />
 </a>
 
 <a href="https://github.com/masb0ymas/boilerplate-express-typescript-sequelize">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=masb0ymas&repo=boilerplate-express-typescript-sequelize" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=masb0ymas&repo=boilerplate-express-typescript-sequelize&theme=vue-dark" />
 </a>
