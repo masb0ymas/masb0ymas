@@ -55,6 +55,7 @@ I love playing with 🐧 penguins and eating apples 🍏
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masb0ymas&langs_count=8&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![My Github Stat](https://github-readme-stats.vercel.app/api?username=masb0ymas&show_icons=true&hide_border=true&theme=vue-dark)
 
