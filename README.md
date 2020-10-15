@@ -12,7 +12,7 @@ I love playing with 🐧 penguins and eating apples 🍏
 
 **Follow Me:**
 
-<a href="https://linkedin.com/in/nurul-fajri-58a248b7">
+<a href="https://www.linkedin.com/in/masb0ymas">
   <img align="left" alt="Nurul Fajri | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
 <a href="https://twitter.com/masb0ymas">
