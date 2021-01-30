@@ -62,14 +62,10 @@ I love playing with 🐧 penguins and eating apples 🍏
 
 ⭐️ From [masb0ymas](https://github.com/masb0ymas)
 
-<a href="https://github.com/masb0ymas/koala-sequelize-typescript">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=masb0ymas&repo=koala-sequelize-typescript&theme=vue-dark" />
+<a href="https://github.com/masb0ymas/express-functions-typescript">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=masb0ymas&repo=express-functions-typescript&theme=vue-dark" />
 </a>
 
 <a href="https://github.com/masb0ymas/boilerplate-express-typescript-sequelize">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=masb0ymas&repo=boilerplate-express-typescript-sequelize&theme=vue-dark" />
-</a>
-
-<a href="https://github.com/masb0ymas/express-functions-typescript">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=masb0ymas&repo=express-functions-typescript&theme=vue-dark" />
 </a>
