@@ -5,7 +5,7 @@ people call me `Fajri`
 
 <br />
 
-Hi, I'm Nurul Fajri, a Full Stack Developer 🚀 from Indonesia, currently, I'm a working on [Nusantech](https://github.com/Nusantech).
+Hi, I'm Nurul Fajri, a Full Stack Developer 🚀 from Indonesia, currently, I'm a working on [Karcisbola](https://github.com/Karcisbola).
 Beside's programming, I enjoy eating food and traveling. I am still learning to get the best experience. I like to explore 🏔️ new things related to technology.
 
 I love playing with 🐧 penguins and eating apples 🍏
@@ -28,9 +28,8 @@ I love playing with 🐧 penguins and eating apples 🍏
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Nusantech](https://github.com/Nusantech)
+- 👨🏽‍💻 I’m currently working on [Karcisbola](https://github.com/Karcisbola)
 - 🌱 I’m currently learning [NextJs](https://github.com/vercel/next.js), [TypeScript](https://github.com/microsoft/TypeScript), [Docker](https://www.docker.com/),  and [Kubernetes](https://kubernetes.io/)
-- 👯 I’m looking to collaborate on [Nusantech](https://github.com/Nusantech) 🤝
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: n.fajri@outlook.com
