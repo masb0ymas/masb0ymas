@@ -28,10 +28,8 @@ I love playing with 🐧 penguins and eating apples 🍏
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Karcisbola](https://github.com/Karcisbola)
+- 💻 I’m currently working on [Karcisbola](https://github.com/Karcisbola) ⚽️
 - 🌱 I’m currently learning [NextJs](https://github.com/vercel/next.js), [TypeScript](https://github.com/microsoft/TypeScript), [Docker](https://www.docker.com/),  and [Kubernetes](https://kubernetes.io/)
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭
-- 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: n.fajri@outlook.com
 - 📝 [Resume](https://resume.masb0ymas.vercel.app/)
 
