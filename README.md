@@ -64,6 +64,6 @@ I love playing with 🐧 penguins and eating apples 🍏
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=masb0ymas&repo=express-gateway-typescript&theme=vue-dark" />
 </a>
 
-<a href="https://github.com/masb0ymas/boilerplate-express-typescript-sequelize">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=masb0ymas&repo=boilerplate-express-typescript-sequelize&theme=vue-dark" />
+<a href="https://github.com/masb0ymas/expresso">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=masb0ymas&repo=expresso&theme=vue-dark" />
 </a>
