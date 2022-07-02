@@ -60,8 +60,8 @@ I love playing with 🐧 penguins and eating apples 🍏
 
 ⭐️ From [masb0ymas](https://github.com/masb0ymas)
 
-<a href="https://github.com/masb0ymas/expresso-gateway">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=masb0ymas&repo=expresso-gateway&theme=vue-dark" />
+<a href="https://github.com/masb0ymas/expresso-typeorm">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=masb0ymas&repo=expresso-typeorm&theme=vue-dark" />
 </a>
 
 <a href="https://github.com/masb0ymas/expresso">
