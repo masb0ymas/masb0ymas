@@ -1,3 +1,6 @@
+![Vercel](https://vercelbadge.vercel.app/api/masb0ymas/next-resume)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/77d8c51f-8e36-4f77-b03b-33adcdadd760/deploy-status)](https://app.netlify.com/sites/masb0ymas/deploys)
+
 ### Hey 👋🏽, I'm [Nurul Fajri](https://resume.masb0ymas.vercel.app/)
 people call me `Fajri` 
 
@@ -31,7 +34,8 @@ I love playing with 🐧 penguins and eating apples 🍏
 - 💻 I’m currently working on [Karcisbola](https://github.com/Karcisbola) ⚽️
 - 🌱 I’m currently learning [NextJs](https://github.com/vercel/next.js), [TypeScript](https://github.com/microsoft/TypeScript), [Docker](https://www.docker.com/),  and [Kubernetes](https://kubernetes.io/)
 - 📫 How to reach me: n.fajri@outlook.com
-- 📝 [Resume](https://resume.masb0ymas.vercel.app/)
+- [Resume deploy with Vercel](https://resume.masb0ymas.vercel.app/)
+- [Resume deploy with Netlify](https://masb0ymas.netlify.app/)
 
 **Languages and Tools:**
 
