@@ -17,6 +17,7 @@ Beside's programming, I enjoy eating food and traveling. I am still learning to 
 **Talking about Personal Stuffs:**
 
 - 📫 How to reach me: n.fajri@outlook.com
+- 📫 If you like my work and want to support me, please do this via [PayPal](https://www.paypal.com/paypalme/masb0ymas).
 
 #### Development Stack
 
