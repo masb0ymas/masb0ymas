@@ -18,7 +18,7 @@ Beside's programming, I enjoy eating food and traveling. I am still learning to 
 
 - 📫 How to reach me: n.fajri@outlook.com
 
-#### Developement Stack
+#### Development Stack
 
 ![Node](https://badges.aleen42.com/src/node.svg)
 ![Eslint](https://badges.aleen42.com/src/eslint.svg)
