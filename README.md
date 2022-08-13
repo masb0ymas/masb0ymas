@@ -43,6 +43,6 @@ Beside's programming, I enjoy eating food and traveling. I am still learning to 
 ![Docker](https://badges.aleen42.com/src/docker.svg)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masb0ymas&layout=compact&theme=vue-dark" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masb0ymas&hide_border=true&layout=compact&theme=vue-dark" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=masb0ymas&show_icons=true&hide_border=true&theme=vue-dark" height="180px"/>
 </p>
