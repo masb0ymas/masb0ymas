@@ -5,8 +5,7 @@
 
 people call me `Fajri`
 
-Hi, I'm Nurul Fajri, a Full Stack Developer 🚀 from Indonesia, currently, I'm a working on [Karcisbola](https://github.com/Karcisbola).
-Beside's programming, I enjoy eating food and traveling. I am still learning to get the best experience. I like to explore 🏔️ new things related to technology.
+Hi, I'm Nurul Fajri, Software Engineer from Indonesia, Currently I work as a software engineer at Karcisbola, I like sports and also traveling. On the other hand, I also enjoy learning new things, both in technology and other fields.
 
 #### Follow Me:
 
