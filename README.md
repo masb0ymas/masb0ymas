@@ -1,11 +1,11 @@
 ![Vercel](https://vercelbadge.vercel.app/api/masb0ymas/next-resume)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/77d8c51f-8e36-4f77-b03b-33adcdadd760/deploy-status)](https://app.netlify.com/sites/masb0ymas/deploys)
 
-### Hey 👋🏽, I'm [Nurul Fajri](https://masb0ymas.netlify.app/)
+### Hey 👋🏽, I'm [Nurul Fajri](https://resume.masb0ymas.com)
 
 people call me `Fajri`
 
-Hi, I'm Nurul Fajri, Software Engineer from Indonesia, Currently I work as a software engineer at Karcisbola, I like sports and also traveling. On the other hand, I also enjoy learning new things, both in technology and other fields.
+Hi, I'm Nurul Fajri, Software Engineer from Indonesia, Currently I work as a software engineer at *Karcisbola*, I like sports and also traveling. On the other hand, I also enjoy learning new things, both in technology and other fields.
 
 #### Follow Me:
 
@@ -20,6 +20,7 @@ Hi, I'm Nurul Fajri, Software Engineer from Indonesia, Currently I work as a sof
 
 #### Development Stack
 
+![VSCode](https://badges.aleen42.com/src/visual_studio_code.svg)
 ![Node](https://badges.aleen42.com/src/node.svg)
 ![Eslint](https://badges.aleen42.com/src/eslint.svg)
 ![TypeScript](https://badges.aleen42.com/src/typescript.svg)
@@ -28,10 +29,12 @@ Hi, I'm Nurul Fajri, Software Engineer from Indonesia, Currently I work as a sof
 
 #### Other tools
 
+![Firefox](https://img.shields.io/badge/Firefox-Information?logo=firefox&color=F54637&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-Informational?logo=redis&color=9E1C10&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Informational?logo=mongodb&color=429543&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-Informational?logo=firebase&color=F6830D&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?Laravel-Informational&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-Information?logo=flutter&color=107EC7&logoColor=white)
 ![Golang](https://badges.aleen42.com/src/golang.svg)
 
 #### Deployment
