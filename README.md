@@ -48,4 +48,5 @@ Hi, I'm Nurul Fajri, Software Engineer from Indonesia, Currently I work as a sof
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masb0ymas&hide_border=true&layout=compact&theme=vue-dark" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=masb0ymas&show_icons=true&hide_border=true&theme=vue-dark" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=masb0ymas&theme=vue-dark" height="180px"/>
 </p>
