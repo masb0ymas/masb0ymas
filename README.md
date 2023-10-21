@@ -5,7 +5,7 @@
 
 people call me `Fajri`
 
-Hi, I'm Nurul Fajri, Software Engineer from Indonesia, Currently I work as a software engineer at *Karcisbola*, I like sports and also traveling. On the other hand, I also enjoy learning new things, both in technology and other fields.
+Hi, I'm Nurul Fajri, Software Engineer from Indonesia, Currently I work as a software engineer at [*@Karcisbola*](https://github.com/Karcisbola), I like sports and also traveling. On the other hand, I also enjoy learning new things, both in technology and other fields.
 
 #### Follow Me:
 
@@ -15,8 +15,8 @@ Hi, I'm Nurul Fajri, Software Engineer from Indonesia, Currently I work as a sof
 
 **Talking about Personal Stuffs:**
 
-- 📫 How to reach me: n.fajri@outlook.com
-- 📫 If you like my work and want to support me, please do this via [PayPal](https://www.paypal.com/paypalme/masb0ymas).
+- 📫 How to reach me: n.fajri@mail.com
+- 📫 If you like my work and want to support me, via [Bio Link](https://s.id/masb0ymas).
 
 #### Development Stack
 
