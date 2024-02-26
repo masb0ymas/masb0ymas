@@ -1,11 +1,11 @@
 ![Vercel](https://vercelbadge.vercel.app/api/masb0ymas/next-resume)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/77d8c51f-8e36-4f77-b03b-33adcdadd760/deploy-status)](https://app.netlify.com/sites/masb0ymas/deploys)
 
-### Hey 👋🏽, I'm [Nurul Fajri](https://resume.masb0ymas.com)
+### Hey 👋🏽, I'm [Nurul Fajri](https://www.masb0ymas.my.id/)
 
 people call me `Fajri`
 
-Hi, I'm Nurul Fajri, Software Engineer from Indonesia, Currently I work as a software engineer at [*@Karcisbola*](https://github.com/Karcisbola), I like sports and also traveling. On the other hand, I also enjoy learning new things, both in technology and other fields.
+Hi, I'm Nurul Fajri, Software Engineer from Indonesia, Currently I work as a software engineer at [*@Trasmi-Broker*](https://github.com/Trasmi-Broker), I like sports and also traveling. On the other hand, I also enjoy learning new things, both in technology and other fields.
 
 #### Follow Me:
 
@@ -15,7 +15,7 @@ Hi, I'm Nurul Fajri, Software Engineer from Indonesia, Currently I work as a sof
 
 **Talking about Personal Stuffs:**
 
-- 📫 How to reach me: n.fajri@mail.com
+- 📫 How to reach me: [n.fajri@mail.com](mailto:n.fajri@mail.com)
 - 📫 If you like my work and want to support me, via [Bio Link](https://s.id/masb0ymas).
 
 #### Development Stack
