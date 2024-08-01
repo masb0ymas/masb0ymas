@@ -1,10 +1,10 @@
 ![Vercel](https://vercelbadge.vercel.app/api/masb0ymas/next-resume)
 
-### Hey 👋🏽, I'm [Nurul Fajri](https://www.masb0ymas.my.id/)
+### Hey 👋🏽, I'm [N. Fajri](https://www.masb0ymas.my.id/)
 
-people call me `Fajri`
+You can call me `Fajri`
 
-Hi, I'm Nurul Fajri, Software Engineer from Indonesia, Currently I work as a software engineer at [*@Trasmi-Broker*](https://github.com/Trasmi-Broker), I like sports and also traveling. On the other hand, I also enjoy learning new things, both in technology and other fields.
+Hi there, I'm N. Fajri, a Software Engineer from Indonesia. Currently, I work as a software engineer at [Moneyflow ID](https://github.com/Moneyflow-id). I'm learning about Web3 development and writing about tech blogs as I learn new things about technology. I love sports and traveling. On the other hand, I also enjoy learning new things, both in technology and other fields.
 
 #### Follow Me:
 
