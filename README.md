@@ -1,5 +1,4 @@
 ![Vercel](https://vercelbadge.vercel.app/api/masb0ymas/next-resume)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/77d8c51f-8e36-4f77-b03b-33adcdadd760/deploy-status)](https://app.netlify.com/sites/masb0ymas/deploys)
 
 ### Hey 👋🏽, I'm [Nurul Fajri](https://www.masb0ymas.my.id/)
 
