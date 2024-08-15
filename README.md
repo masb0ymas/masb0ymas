@@ -1,10 +1,9 @@
 ![Vercel](https://vercelbadge.vercel.app/api/masb0ymas/next-resume)
+[![](https://visitcount.itsvg.in/api?id=masb0ymas&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### Hey 👋🏽, I'm [N. Fajri](https://www.masb0ymas.my.id/)
 
-You can call me `Fajri`
-
-Hi there, I'm N. Fajri, a Software Engineer from Indonesia. Currently, I work as a software engineer at [Moneyflow ID](https://github.com/Moneyflow-id). I'm learning about Web3 development and writing about tech blogs as I learn new things about technology. I love sports and traveling. On the other hand, I also enjoy learning new things, both in technology and other fields.
+Passionate about Software Development since 2017, I have over 6 years of experience in the field and junior-level expertise in web3 development. I quickly adapt to new challenges, excel in teamwork, focus on solutions, and manage work-related stress effectively. 
 
 #### Follow Me:
 
