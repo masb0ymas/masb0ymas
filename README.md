@@ -1,5 +1,5 @@
 ![Vercel](https://vercelbadge.vercel.app/api/masb0ymas/next-resume)
-[![](https://visitcount.itsvg.in/api?id=masb0ymas&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=masb0ymas&label=Profile%20Views&icon=3&color=0&pretty=true)](https://visitcount.itsvg.in)
 
 ### Hey 👋🏽, I'm [N. Fajri](https://www.masb0ymas.my.id/)
 
@@ -11,7 +11,7 @@ Passionate about Software Development since 2017, I have over 6 years of experie
 [![Twitter](https://badges.aleen42.com/src/twitter.svg)](https://twitter.com/masb0ymas)
 [![Instagram](https://badges.aleen42.com/src/instagram.svg)](https://www.instagram.com/masb0ymas)
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 - 📫 How to reach me: [n.fajri@mail.com](mailto:n.fajri@mail.com)
 - 📫 If you like my work and want to support me, via [Bio Link](https://s.id/masb0ymas).
