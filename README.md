@@ -13,20 +13,32 @@ Passionate about Software Development since 2017, I have over 6 years of experie
 
 **Talking about Personal Stuff:**
 
-- 📫 How to reach me: [n.fajri@mail.com](mailto:n.fajri@mail.com)
+- 📫 How to reach me: [n.fajri@mail.com](mailto:n.fajri@mail.com) | [me@masb0ymas.com](mailto:me@masb0ymas.com) 
 - 📫 If you like my work and want to support me, via [Bio Link](https://s.id/masb0ymas).
 
-#### Development Stack
+#### Frontend
+- tech: ReactJs, NextJs, AstroJs, Svelte
+- ui: Tailwindcss, shadcn
+- state: Zustand
+- other: Tanstack Query, Tanstack Table
 
+#### Backend
+- tech: ExpressJs, ElysiaJs, Go Fiber
+- sql: PostgreSQL, MariaDB, MongoDB
+- cache: Redis
+
+#### DevOps
+- Docker
+- CI/CD
+- Traefik ( proxy )
+
+#### Badges
 ![VSCode](https://badges.aleen42.com/src/visual_studio_code.svg)
 ![Node](https://badges.aleen42.com/src/node.svg)
 ![Eslint](https://badges.aleen42.com/src/eslint.svg)
 ![TypeScript](https://badges.aleen42.com/src/typescript.svg)
 ![JavaScript](https://badges.aleen42.com/src/javascript.svg)
 ![React](https://badges.aleen42.com/src/react.svg)
-
-#### Other tools
-
 ![Firefox](https://img.shields.io/badge/Firefox-Information?logo=firefox&color=F54637&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-Informational?logo=redis&color=9E1C10&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Informational?logo=mongodb&color=429543&logoColor=white)
@@ -34,17 +46,11 @@ Passionate about Software Development since 2017, I have over 6 years of experie
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?Laravel-Informational&logo=laravel&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-Information?logo=flutter&color=107EC7&logoColor=white)
 ![Golang](https://badges.aleen42.com/src/golang.svg)
-
-#### Deployment
-
 ![CLI](https://badges.aleen42.com/src/cli.svg)
 ![Github](https://badges.aleen42.com/src/github.svg)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-Informational?logo=ubuntu&color=E95420&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-Informational?logo=postgresql&color=31648C&logoColor=white)
 ![Docker](https://badges.aleen42.com/src/docker.svg)
 
-<p align="center">
-  <img src="https://grs.masb0ymas.com/api/top-langs/?username=masb0ymas&hide_border=true&layout=compact&theme=vue-dark" height="180px"/>
-  <img src="https://grs.masb0ymas.com/api?username=masb0ymas&show_icons=true&hide_border=true&theme=vue-dark" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=masb0ymas&theme=vue-dark" height="180px"/>
-</p>
+---
+&copy; 2025 masb0ymas
