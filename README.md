@@ -3,13 +3,14 @@
 
 ### Hey 👋🏽, I'm [N. Fajri](https://www.masb0ymas.my.id/)
 
-Passionate about Software Development since 2017, I have over 6 years of experience in the field and junior-level expertise in web3 development. I quickly adapt to new challenges, excel in teamwork, focus on solutions, and manage work-related stress effectively. 
+My software engineering journey, which began in 2017, has provided me with a strong understanding of software development lifecycle and principles. I've actively pursued opportunities to expand my skill set, including developing junior-level expertise in web3. I excel at tackling complex problems, fostering collaborative team dynamics, and navigating project challenges with a solution-oriented mindset. My capacity to quickly adapt to new technologies and manage stressful situations has consistently proven valuable.
 
 #### Follow Me:
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-Informational?logo=linkedin&color=0A66C2&logoColor=white)](https://www.linkedin.com/in/masb0ymas)
 [![Twitter](https://badges.aleen42.com/src/twitter.svg)](https://twitter.com/masb0ymas)
 [![Instagram](https://badges.aleen42.com/src/instagram.svg)](https://www.instagram.com/masb0ymas)
+[![Facebook](https://badges.aleen42.com/src/facebook.svg)]([https://www.instagram.com/masb0ymas](https://www.facebook.com/profile.php?id=100000480470670))
 
 **Talking about Personal Stuff:**
 
@@ -18,12 +19,14 @@ Passionate about Software Development since 2017, I have over 6 years of experie
 
 #### Frontend
 - tech: ReactJs, NextJs, AstroJs, Svelte
+- auth: NextAuth, BetterAuth, Web3 Auth
 - ui: Tailwindcss, shadcn
 - state: Zustand
 - other: Tanstack Query, Tanstack Table
 
 #### Backend
 - tech: ExpressJs, ElysiaJs, Go Fiber
+- db: ORM / Raw Query
 - sql: PostgreSQL, MariaDB, MongoDB
 - cache: Redis
 
@@ -31,6 +34,9 @@ Passionate about Software Development since 2017, I have over 6 years of experie
 - Docker
 - CI/CD
 - Traefik ( proxy )
+- Google Cloud Platform ( VM, Artifact, Storage, Cloud Run, Cloud Build )
+- Amazon Web Service ( VM, Aws Registry, S3 )
+- Another VPS Provider
 
 #### Badges
 ![VSCode](https://badges.aleen42.com/src/visual_studio_code.svg)
