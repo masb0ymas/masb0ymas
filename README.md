@@ -20,7 +20,7 @@ My software engineering journey, which began in 2017, has provided me with a str
 #### Frontend
 - tech: ReactJs, NextJs, AstroJs, Svelte
 - auth: NextAuth, BetterAuth, Web3 Auth
-- ui: Tailwindcss, shadcn
+- ui: Tailwindcss, shadcn, Mantine UI, Ant Design
 - state: Zustand
 - other: Tanstack Query, Tanstack Table
 
@@ -33,7 +33,7 @@ My software engineering journey, which began in 2017, has provided me with a str
 #### DevOps
 - Docker
 - CI/CD
-- Traefik ( proxy )
+- Traefik ( proxy ), Nginx
 - Google Cloud Platform ( VM, Artifact, Storage, Cloud Run, Cloud Build )
 - Amazon Web Service ( VM, Aws Registry, S3 )
 - Another VPS Provider
@@ -42,9 +42,11 @@ My software engineering journey, which began in 2017, has provided me with a str
 ![VSCode](https://badges.aleen42.com/src/visual_studio_code.svg)
 ![Node](https://badges.aleen42.com/src/node.svg)
 ![Eslint](https://badges.aleen42.com/src/eslint.svg)
+![Tailwindcss](https://badges.aleen42.com/src/tailwindcss.svg)
 ![TypeScript](https://badges.aleen42.com/src/typescript.svg)
 ![JavaScript](https://badges.aleen42.com/src/javascript.svg)
 ![React](https://badges.aleen42.com/src/react.svg)
+![Svelte](https://badges.aleen42.com/src/svelte.svg)
 ![Firefox](https://img.shields.io/badge/Firefox-Information?logo=firefox&color=F54637&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-Informational?logo=redis&color=9E1C10&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Informational?logo=mongodb&color=429543&logoColor=white)
@@ -55,7 +57,7 @@ My software engineering journey, which began in 2017, has provided me with a str
 ![CLI](https://badges.aleen42.com/src/cli.svg)
 ![Github](https://badges.aleen42.com/src/github.svg)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-Informational?logo=ubuntu&color=E95420&logoColor=white)
-![Postgresql](https://img.shields.io/badge/PostgreSQL-Informational?logo=postgresql&color=31648C&logoColor=white)
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![Docker](https://badges.aleen42.com/src/docker.svg)
 
 ---
