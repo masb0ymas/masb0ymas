@@ -20,8 +20,8 @@ My software engineering journey, which began in 2017, has provided me with a str
 #### Frontend
 - tech: ReactJs, NextJs, AstroJs, Svelte
 - auth: NextAuth, BetterAuth, Web3 Auth
-- ui: Tailwindcss, shadcn, Mantine UI, Ant Design
-- state: Zustand
+- ui: Tailwindcss, shadcn, Mantine UI, Ant Design, Styled Component
+- state: Zustand, Redux
 - other: Tanstack Query, Tanstack Table
 
 #### Backend
